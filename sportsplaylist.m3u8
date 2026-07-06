@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAtcxNZ.png" tvg-name=":Šport (1080p)" group-title="Sports",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lv53nh4.png" tvg-name="30A Golf Kingdom (720p)" group-title="Sports",30A Golf Kingdom (720p)
@@ -85,8 +87,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-name="Canal+ Sport (1080p)" group-title="Sports",Canal+ Sport (1080p)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" tvg-name="CBC Sport HD [Geo-blocked]" group-title="Sports",CBC Sport HD [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" tvg-name="CBS Sports Golazo Network (720p)" group-title="Sports",CBS Sports Golazo Network (720p)
