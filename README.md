@@ -13,6 +13,11 @@ For immediate access, copy and paste the raw playlist URL into your preferred me
 ```
 https://raw.githubusercontent.com/exploremaruf/IPTV/main/playlist.m3u
 ```
+## 🏆 Watching Sports
+
+```
+https://raw.githubusercontent.com/exploremaruf/IPTV/refs/heads/main/sportsplaylist.m3u8
+```
 
 ---
 
