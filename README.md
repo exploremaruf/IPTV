@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/exploremaruf/IPTV/refs/heads/main/sportsplayli
 ### 📱 Mobile & Smart TV (Android / iOS / Fire OS)
 
 1. **Install a client:**
-   - Android: [IPTV Pro](https://play.google.com/store/apps) or [TiviMate](https://tivimate.com/)
+   - Android: [IPTV Pro](https://play.google.com/store/apps) or [TiviMate](https://tivimate.com/) or Dekhi
    - iOS / Apple TV: [IPTV Player](https://apps.apple.com/)
 2. **Import playlist:** Select **Add Playlist** and choose the **M3U URL** option.
 3. **Deploy:** Paste the URL from the Quick Start section above and save.
